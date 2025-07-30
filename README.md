@@ -7,50 +7,51 @@ Ideal para estudo, referência técnica ou como base para projetos semelhantes.
 
 ## 📁 Estrutura do Repositório
 
-```plaintext
-Relatorio-Tecnico/
-├── recon-corporativo/
-│   └── relatorio_tecnico.pdf
-├── recon-backup/
-│   ├── reconn_rede.txt
-│   └── recon_ip_maps.txt
-├── mapeamento/
-│   └── imagens (.png, .jpg)
-├── scripts/
-│   └── scripts (.sh, .py)
-📝 Relatório Técnico
-📄 Arquivo em PDF com a descrição completa do projeto: 🔗 Clique aqui para visualizar ou baixar
+Relatório-Técnico/ ├── recon-corporativo/ │ └── Relatório Técnico (PDF) ├── recon-backup/ │ ├── reconn_rede.txt │ └── recon_ip_maps.txt ├── mapeamento/ │ └── Prints e evidências (.png, .jpg) ├── scripts/ │ └── Scripts utilizados nos testes (.sh, .py)
 
-✍️ Conteúdo abordado:
-Objetivo e escopo do projeto
 
-Etapas do mapeamento da rede
+---
 
-Ferramentas e comandos utilizados
+## 📝 Relatório Técnico
 
-Análise dos resultados
+📄 Arquivo em PDF com a descrição completa do projeto:  
+🔗 [Clique aqui para visualizar ou baixar](recon-corporativo/relatorio_tecnico.pdf)
 
-📷 Evidências e Prints
-A pasta mapeamento/ contém imagens capturadas durante o processo técnico:
+### Conteúdo abordado:
 
-Execução de scripts
+- Objetivo e escopo do projeto  
+- Etapas do mapeamento da rede  
+- Ferramentas e comandos utilizados  
+- Análise dos resultados  
 
-Análise de IPs e serviços ativos
+---
 
-Testes com ferramentas como Nmap e Netdiscover
+## 📷 Evidências e Prints
 
-🔍 Scripts e Backups
-recon-backup/ → registros das descobertas em .txt
+A pasta `mapeamento/` contém imagens capturadas durante o processo técnico:
 
-scripts/ → códigos utilizados nos testes automatizados
+- Execução de scripts  
+- Análise de IPs e serviços ativos  
+- Testes com ferramentas como Nmap e Netdiscover  
 
-📦 Clonando o Repositório
+---
+
+## 🔍 Scripts e Backups
+
+- Pasta `recon-backup/` com registros das descobertas em `.txt`  
+- Pasta `scripts/` com os códigos aplicados durante os testes  
+
+---
+
+## 📦 Clonando o Repositório
+
 Para baixar este projeto localmente:
 
-bash
-git clone https://github.com/Patriciapaes88/Relatorio-Tecnico.git
-👩‍💻 Autora
-Desenvolvido por: Patricia Paes Área: Cibersegurança – VNW 🚀
+```bash
+git clone:
+ https://github.com/Patriciapaes88/Relatorio-Tecnico.git
+✍️ Autor(a)
+Desenvolvido por Patricia Paes Cibersegurança – VNW 🚀
 
 🧠 Observações
-O arquivo PDF pode não ser visualizado diretamente no GitHub — utilize a opção “View raw” para baixar. Todos os dados foram gerados em ambiente controlado e virtualizado.
+O arquivo PDF pode não ser visualizado diretamente no GitHub — utilize “View raw” para baixar. Todos os dados foram gerados em ambiente controlado e virtualizado.
